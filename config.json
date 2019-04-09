@@ -1,6 +1,6 @@
 {
-    coverityServer : "http://coverity.cloud.health.ge.com:8080",
-    projectName : "service hub mobile",
-    streamName : "jenkinsIntegration",
-    viewName: 'Copy of Unsaved view'
+	"coverityServer": "http://coverity.cloud.health.ge.com:8080",
+	"projectName": "service hub mobile",
+	"streamName": "jenkinsIntegration",
+	"viewName": "Copy of Unsaved view"
 }
